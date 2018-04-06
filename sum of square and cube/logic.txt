@@ -1,0 +1,12 @@
+# <---input--->
+then  ↓   ↓  ↓ 
+We Take The For Loop from 1 to x-1
+then we take the cube of 'i' "for variable" then subtract it from x and see if it is perfect square or not.
+and if it is perfect square print it out.
+
+example if we have a input 12:
+then for loop starts , 
+i=1
+i**3 = 1
+then 12-1 =11 not a perfect square then dont print
+then 12 - 2***3 = 4 which is perfect square . then print it out . done thats it !
